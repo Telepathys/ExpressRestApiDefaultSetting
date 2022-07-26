@@ -1,10 +1,9 @@
-# B2cBackendKotlinDefault-Setting
+# ExpressRestApiDefaultSetting
 ## Run
 
 ### Locally
 
 
 ```bash
-npm install
-npm run start
+docker-compose up --build
 ```
